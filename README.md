@@ -1,2 +1,1 @@
-# cpu
-DOGE
+# minersu
